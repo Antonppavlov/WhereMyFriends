@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "18068500675",
+    "firebase_url": "https://wheremyfriends-f0baf.firebaseio.com",
+    "project_id": "wheremyfriends-f0baf",
+    "storage_bucket": "wheremyfriends-f0baf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18068500675:android:a398f2ab3869a71f",
+        "android_client_info": {
+          "package_name": "su.bbrain.wheremyfriends"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18068500675-kn44p8gm390ihiic2fjrav6od9f32iv5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "su.bbrain.wheremyfriends",
+            "certificate_hash": "6fa31ac86aa78168f379dda3b8fb0814eb103fc9"
+          }
+        },
+        {
+          "client_id": "18068500675-uscbnanh0n4tsib9tus4fqtj6n8dp370.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDECzIqx4dq1D9srf_xdHKRk8JaJ-wewxY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18068500675-uscbnanh0n4tsib9tus4fqtj6n8dp370.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
